@@ -25,6 +25,10 @@ A declaração switch é usada para executar diferentes blocos de código com ba
 
 ![image](https://user-images.githubusercontent.com/122856066/236312469-20062728-0b6b-4b13-9d6d-232e7c12e010.png)
 
+### Boas práticas de decisão:
+![image](https://user-images.githubusercontent.com/122856066/236329834-4d5f1e0f-b5d9-4a9a-9daf-7a69ca335ad3.png)
+
+
 
 
 
