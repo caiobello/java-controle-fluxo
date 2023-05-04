@@ -21,3 +21,7 @@ Operador ternário
 O operador ternário é uma forma mais concisa de escrever declarações if-else de uma linha.
 
 Cada exemplo neste repositório é acompanhado por uma breve explicação do código e de como as declarações de decisão são usadas em cada situação. Este repositório é uma ótima fonte de referência para desenvolvedores Java que desejam aprimorar suas habilidades em declarações de decisão.
+
+## Repetição ...
+
+## Interrupção ...
