@@ -187,7 +187,7 @@ public class EstruturasDeFluxo {
             case 5:
                 System.out.println("Talvez");
                 break;
-            default:
+            default: //algo deu errado, use o default
                 System.out.println("Valor indefinido");
                 break;
 
