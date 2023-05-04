@@ -6,8 +6,11 @@ Este repositório contém exemplos de como usar declarações de decisão em Jav
 Operador ternário: O operador ternário é uma forma mais concisa de escrever declarações if-else de uma linha.
 
 if: A declaração if é usada para executar um bloco de código se a condição especificada for verdadeira.<br>
+
 if-else:A declaração if-else é usada para executar um bloco de código se a condição especificada for verdadeira e outro bloco de código se a condição for falsa.<br>
+
 if-else-if: A declaração if-else-if é usada para executar diferentes blocos de código com base em várias condições.<br>
+
 switch: A declaração switch é usada para executar diferentes blocos de código com base em diferentes valores.<br>
 
 
