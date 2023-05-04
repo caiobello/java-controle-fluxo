@@ -1,8 +1,6 @@
-## Controle de fluxo 
-## Tipos: decisão, repeitção e interrupção
-
-
-## Decisão
+# Controle de fluxo 
+#### Tipos de controle de fluxo: Decisão, Repeitção e Interrupção
+### Decisão:
 Este repositório contém exemplos de como usar declarações de decisão em Java. As declarações de decisão permitem que o programa escolha um caminho diferente com base em uma condição específica. Neste repositório, você encontrará exemplos de uso das seguintes declarações de decisão:
 
 ### Operador ternário
