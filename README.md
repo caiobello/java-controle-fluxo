@@ -23,6 +23,8 @@ A declaração if-else-if é usada para executar diferentes blocos de código co
 A declaração switch é usada para executar diferentes blocos de código com base em diferentes valores.<br>
 ![image](https://user-images.githubusercontent.com/122856066/236112699-ff43989a-83db-4fb5-a13f-97584b551c05.png)
 
+![image](https://user-images.githubusercontent.com/122856066/236312469-20062728-0b6b-4b13-9d6d-232e7c12e010.png)
+
 
 
 
